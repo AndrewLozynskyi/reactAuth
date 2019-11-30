@@ -5,6 +5,7 @@ export default class Home extends Component {
     return (
       <div>
         Home. Not Protected. Anyone can see this.
+        Test circleCI
       </div>
     )
   }
